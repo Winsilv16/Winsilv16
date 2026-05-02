@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="488" height="498" alt="200iq-helloworld" src="https://github.com/user-attachments/assets/ba7c5310-18a3-49d7-9d19-f3b4d12687ce" />
+<img width="488" height="498" alt="200iq-helloworld" src="https://github.com/user-attachments/assets/ba7c5310-18a3-49d7-9d19-f3b4d12687ce" width="400"/>
 
 
 <!--
