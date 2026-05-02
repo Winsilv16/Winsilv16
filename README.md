@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://media.tenor.com/Dmimutp0T7kAAAAe/200iq-helloworld.png
+<img width="488" height="498" alt="200iq-helloworld" src="https://github.com/user-attachments/assets/ba7c5310-18a3-49d7-9d19-f3b4d12687ce" />
+
 
 <!--
 **Winsilv16/Winsilv16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
